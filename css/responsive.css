@@ -1,0 +1,24 @@
+@media screen and (max-width:835px) {
+
+    .footer{
+        flex-wrap: wrap;
+        height: 240px;
+    }
+    
+}
+
+@media screen and (max-width:730px) {
+
+    .header{
+        flex-direction: column;
+    }
+
+
+    .main{
+        flex-direction: column;
+        
+    }
+    .section__img{
+        margin-top: 20px;
+    }
+}
